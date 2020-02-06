@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Speicherbox/static/css/main.c84bd245.chunk.css",
+    "main.js": "/Speicherbox/static/js/main.e8f86e0a.chunk.js",
+    "main.js.map": "/Speicherbox/static/js/main.e8f86e0a.chunk.js.map",
+    "runtime-main.js": "/Speicherbox/static/js/runtime-main.ab5d9aba.js",
+    "runtime-main.js.map": "/Speicherbox/static/js/runtime-main.ab5d9aba.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "/Speicherbox/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.ea8606d6.chunk.js": "/Speicherbox/static/js/2.ea8606d6.chunk.js",
+    "static/js/2.ea8606d6.chunk.js.map": "/Speicherbox/static/js/2.ea8606d6.chunk.js.map",
+    "index.html": "/Speicherbox/index.html",
+    "precache-manifest.48b33546f498320bc7dd0dcbdb0381f8.js": "/Speicherbox/precache-manifest.48b33546f498320bc7dd0dcbdb0381f8.js",
+    "service-worker.js": "/Speicherbox/service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "/Speicherbox/static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.c84bd245.chunk.css.map": "/Speicherbox/static/css/main.c84bd245.chunk.css.map",
+    "static/js/2.ea8606d6.chunk.js.LICENSE": "/Speicherbox/static/js/2.ea8606d6.chunk.js.LICENSE",
+    "static/media/Datensicherheit, Tresor_smal.jpg": "/Speicherbox/static/media/Datensicherheit, Tresor_smal.88de5b03.jpg",
+    "static/media/business.jpg": "/Speicherbox/static/media/business.64db3485.jpg",
+    "static/media/business_small.jpg": "/Speicherbox/static/media/business_small.ed5201b0.jpg",
+    "static/media/family.jpg": "/Speicherbox/static/media/family.27d93d7c.jpg",
+    "static/media/family_small.jpg": "/Speicherbox/static/media/family_small.25a13355.jpg",
+    "static/media/home.jpg": "/Speicherbox/static/media/home.a6e4ab7f.jpg",
+    "static/media/home_small.jpg": "/Speicherbox/static/media/home_small.3ee1616e.jpg",
+    "static/media/logo_Wuerfel_speicherbox_1_klein.png": "/Speicherbox/static/media/logo_Wuerfel_speicherbox_1_klein.865fa385.png",
+    "static/media/reseller.jpg": "/Speicherbox/static/media/reseller.36329283.jpg",
+    "static/media/reseller_small.jpg": "/Speicherbox/static/media/reseller_small.bae71b34.jpg",
+    "static/media/swissmade.png": "/Speicherbox/static/media/swissmade.df770f2a.png",
+    "static/media/verein_small.jpg": "/Speicherbox/static/media/verein_small.1f17fe7a.jpg",
+    "static/media/vereine.jpg": "/Speicherbox/static/media/vereine.c52aff27.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab5d9aba.js",
+    "static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.ea8606d6.chunk.js",
+    "static/css/main.c84bd245.chunk.css",
+    "static/js/main.e8f86e0a.chunk.js"
+  ]
+}
