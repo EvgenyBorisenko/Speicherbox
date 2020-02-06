@@ -1,0 +1,13 @@
+.main{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 40px 0 100px 0;
+}
+.MainDescription{
+    color: #1f88d2;
+    padding-bottom: 26px;
+    margin: 65px 0 25px 0;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
